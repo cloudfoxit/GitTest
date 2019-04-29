@@ -1,3 +1,3 @@
 # GitTest
-Hello world
-*** something special in markdown
+Hello world   
+*something special in markdown
